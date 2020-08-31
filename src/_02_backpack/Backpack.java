@@ -5,9 +5,9 @@ package _02_backpack;
  */
 
 public class Backpack {
-	private Pencil pencil;
-	private Ruler ruler;
-	private Textbook textbook;
+	public Pencil pencil;
+	public Ruler ruler;
+	public Textbook textbook;
 
 	public void packAndCheck() {
 		// Your mission is to go to school.
